@@ -26,3 +26,9 @@ The third task focused on developing a Search Engine Optimization (SEO) strategy
 The fourth task centered on creating a visually enhanced Brand Reputation Management Strategy. I designed a professional, well-structured document to help brands monitor online sentiment, handle negative feedback, and build positive brand credibility. The strategy included guidelines for addressing customer reviews, methods to encourage user-generated content, and a crisis management framework. I also curated a list of recommended monitoring tools and performance metrics for ongoing evaluation. Deliverables were provided both as a visually formatted PDF and a Google Docs version, ensuring accessibility and ease of implementation.
 
 Collectively, these four tasks demonstrate my expertise in building cohesive marketing systems—from content creation and SEO optimization to reputation management and strategic planning. Each deliverable was crafted with clarity, structure, and real-world practicality, showcasing an ability to develop high-value assets that support brand growth and digital success.
+
+
+##OUTPUT [TASK 1.xlsx](https://github.com/user-attachments/files/24016579/TASK.1.xlsx)
+[TASK 2.docx](https://github.com/user-attachments/files/24016578/TASK.2.docx)
+[TASK 3.pdf](https://github.com/user-attachments/files/24016577/TASK.3.pdf)
+[TASK 4.pdf](https://github.com/user-attachments/files/24016576/TASK.4.pdf)
